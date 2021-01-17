@@ -73,6 +73,9 @@ body{
     z-index: 1;
 }
 
+.modal-content {
+    border: 0px;
+}
 .modal-header {
     background-color: $background-dark;
     color: floralwhite;
@@ -84,11 +87,11 @@ body{
     }
 }
 .modal-body{
-    background-color: $background-light;
+    background-color: $background-pale;
     font-weight: bold;
 }
 .modal-footer {
-    background-color: $background-light;
+    background-color: $background-pale;
 }
 
 .btn-reserve {

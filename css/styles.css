@@ -53,6 +53,9 @@ body {
   bottom: 0px;
   z-index: 1; }
 
+.modal-content {
+  border: 0px; }
+
 .modal-header {
   background-color: #512DA8;
   color: floralwhite; }
@@ -62,11 +65,11 @@ body {
     color: floralwhite; }
 
 .modal-body {
-  background-color: #9575CD;
+  background-color: #D1C4E9;
   font-weight: bold; }
 
 .modal-footer {
-  background-color: #9575CD; }
+  background-color: #D1C4E9; }
 
 .btn-reserve {
   font-weight: bold;
